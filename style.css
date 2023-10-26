@@ -1,26 +1,16 @@
-h1 {
-    color: aliceblue;
-    background-color:blue;
-    padding: 10px;
-}
-
-h2 {
-    padding: 15px;
-    background-color: aquamarine;
-}
-
-p {
-    background-color:aqua;
-    color: blueviolet;
-    font-size: 24px;
-    padding: 5px;
-    margin: 30px 15px;
-}
-
-h3 {
-    color: azure;
-    background-color: darkred;
-    margin: 30px;
+#titulo {
+    background-color:blueviolet;
     padding: 20px;
-    border: 20px solid black;
+}
+
+.produto span {
+    font-size: 24px;
+}
+
+.promocao {
+    border: 10px solid blue;
+}
+
+.produto {
+    background-color: aqua;
 }
