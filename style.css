@@ -1,24 +1,9 @@
-html {
-    background-color: darkcyan;
-    font-size: 2em;
-}
-
-body {
-    background-color: chocolate;
-    width: 50%;
-}
-
 #titulo {
-    background-color:blueviolet;
     padding: 20px;
 }
 
-.pai {
-    background-color: aqua;
-    width: 50%;
-}
-
-.filha {
-    background-color: aquamarine;
-    width: 50%;
+.pixel {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
 }
