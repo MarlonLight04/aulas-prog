@@ -1,16 +1,24 @@
+html {
+    background-color: darkcyan;
+    font-size: 2em;
+}
+
+body {
+    background-color: chocolate;
+    width: 50%;
+}
+
 #titulo {
     background-color:blueviolet;
     padding: 20px;
 }
 
-.produto span {
-    font-size: 24px;
-}
-
-.promocao {
-    border: 10px solid blue;
-}
-
-.produto {
+.pai {
     background-color: aqua;
+    width: 50%;
+}
+
+.filha {
+    background-color: aquamarine;
+    width: 50%;
 }
